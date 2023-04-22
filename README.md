@@ -1,2 +1,3 @@
 # hello-world
 AV1-Topicos Especiais
+Sou um cara esforçado, trabalhador e estudioso, gosto  de jogar bola e assistir futebol...
